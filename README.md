@@ -1,6 +1,5 @@
-<div align="center">
+
      ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Fahrizalvianaz&fontSize=90)
-</div>
 
 
 <table style="border:none" align="center">
