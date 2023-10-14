@@ -1,6 +1,8 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Fahrizalvianaz&fontSize=90)
+     ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Fahrizalvianaz&fontSize=90)
 </div>
+
+
 <table style="border:none" align="center">
      <tr><td>- 🔭 I’m currently learning everything</td> <td rowspan="4"><img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/> </td></tr> 
      <tr><td>- 🌱 Exploring about tech</td> </tr>
