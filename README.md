@@ -5,7 +5,7 @@
 - 🌱 Exploring about tech
 - ⚡ Fun fact: like coding, but not like dizzy 😄
 - 📫 How to reach me:
-  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/fahrizal-shofyan-aziz)
+  [![Linkedin Badge](https://img.shields.io/badge/-fahrizal-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/fahrizal-shofyan-aziz)
 
 
 
