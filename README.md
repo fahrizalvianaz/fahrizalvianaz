@@ -64,16 +64,8 @@
 
 ### :fire: My Stats :
 
-<table>
-     <tr>
-          <td>
-               [![GitHub Streak](https://streak-stats.demolab.com/?user=fahrizalvianaz&theme=dark)](https://git.io/streak-stats)
-          </td>
-          <td>
-               [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrizalvianaz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-          </td>
-     </tr>
-</table>
+<img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark"/>
+
 
 
 
