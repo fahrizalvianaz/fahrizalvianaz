@@ -1,10 +1,10 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Fahrizalvianaz&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Fahrizalvianaz&fontSize=100);
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahrizalvianaz&show_icons=true&theme=radical)
 
 <!--
 **fahrizalvianaz/fahrizalvianaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
