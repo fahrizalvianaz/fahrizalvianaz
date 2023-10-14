@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=100&section=header&text=Fahrizalvianaz&fontSize=80&fontAlignY=45&fontAlign=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=100&section=header&text=Fahrizalvianaz&fontSize=80&fontAlignY=45)
 
 
 <table style="border:none" align="center">
