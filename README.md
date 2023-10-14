@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hey%20Hey&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hey%20Hey&fontSize=70)
 
 <!--
 **fahrizalvianaz/fahrizalvianaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
