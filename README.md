@@ -9,7 +9,15 @@
   <a href="https://www.linkedin.com/in/fahrizal-shofyan-aziz-40905a224/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- 
+  <a href="https://www.instagram.com/fahrizalvian/">
+    <img src="https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.facebook.com/fahrizal.viaz">
+    <img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
+  </a>
+  <a href="  https://twitter.com/Kodratt4">
+    <img src="https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
+  </a>
 </div>
 
 
