@@ -1,4 +1,4 @@
-<div align="center" style="margin-bottom:20px;">
+<div align="center" style="margin-bottom: 25px;">
      ### :man_technologist: About Me :       
 </div>
 
