@@ -70,7 +70,7 @@
                <img src="https://streak-stats.demolab.com/?user=fahrizalvianaz&theme=dark"/>
           </td>
           <td>
-               <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrizalvianaz&layout=compact&theme=vision-friendly-dark"/>
+               <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrizalvianaz&layout=donut&theme=vision-friendly-dark"/>
           </td>
      </tr>
 </table>
