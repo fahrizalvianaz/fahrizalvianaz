@@ -1,5 +1,5 @@
 <div align="center">
-     ### :man_technologist: About Me :       
+     man_technologist: About Me :       
 </div>
 ### :
 <table style="border:none" align="center">
