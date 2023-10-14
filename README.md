@@ -16,9 +16,9 @@
     <img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
   </a>
     <a href="mailto:fahrizalshofyanaziz@gmail.com">
-    <img src=" https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
-  <a href="  https://twitter.com/Kodratt4">
+  <a href="https://twitter.com/Kodratt4">
     <img src="https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
   </a>
 </div>
