@@ -3,12 +3,10 @@
 
 <table>
         <tr>
-            <td> 
-- 🔭 I’m currently learning everything
-- 🌱 Exploring about tech
-- ⚡ Fun fact: like coding, but not like dizzy 😄
-- 📫 How to reach me:
-            </td>
+            <td> - 🔭 I’m currently learning everything </td> 
+            <td>- 🌱 Exploring about tech </td>
+            <td>- ⚡ Fun fact: like coding, but not like dizzy 😄</td>
+            <td>- 🌱 Exploring about tech </td>
             <td>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
