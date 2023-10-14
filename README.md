@@ -1,7 +1,7 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=80&section=header&text=Fahrizalvianaz&fontSize=80)
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&text=satsetsatsetcoder&fontSize=50&fontAlign=55)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&text=satsetsatsetcoder&fontSize=30&fontAlign=55)
 
 
 
