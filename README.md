@@ -2,8 +2,8 @@
 ### :man_technologist: About Me :
 
 <table style="border:none">
-            <tr><td>- 🔭 I’m currently learning everything</td> </tr> 
-            <tr><td>- 🌱 Exploring about tech</td> <td rowspan="3"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/> </td></tr>
+            <tr><td>- 🔭 I’m currently learning everything</td> <td rowspan="4"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/> </td></tr> 
+            <tr><td>- 🌱 Exploring about tech</td> </tr>
             <tr><td>- ⚡ Fun fact: like coding, but not like dizzy 😄</td></tr>
             <tr><td>- 🌱 Exploring about tech</td> </tr>
            
