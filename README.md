@@ -1,9 +1,7 @@
 
- 
-
 
 <table style="border:none" align="center">
-     <tr><td>- 🔭 I’m currently learning everything</td> <td rowspan="4"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/> </td></tr> 
+     <tr><td>- 🔭 I’m currently learning everything</td> <td rowspan="4"><img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/> </td></tr> 
      <tr><td>- 🌱 Exploring about tech</td> </tr>
      <tr><td>- ⚡ Fun fact: like coding, but not like dizzy 😄</td></tr>
      <tr><td>- 🌱 Exploring about tech</td> </tr>   
