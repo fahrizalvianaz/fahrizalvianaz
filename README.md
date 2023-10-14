@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=fahrizalvianaz&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=fahrizalvianaz&style=flat-square&color=blue" alt="" align="center"/>
 
 
 
