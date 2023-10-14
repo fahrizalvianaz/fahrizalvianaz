@@ -1,3 +1,14 @@
+
+### :man_technologist: About Me :
+
+- 🔭 I’m currently learning everything
+- 🌱 Exploring about tech
+- ⚡ Fun fact: like coding, but not like dizzy 😄
+- 📫 How to reach me: ...
+
+
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div style="background-color=white">
 
