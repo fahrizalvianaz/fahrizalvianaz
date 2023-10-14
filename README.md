@@ -64,7 +64,17 @@
 
 ### :fire: My Stats :
 
-<img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark"/>
+<table>
+     <tr>
+          <td>
+               <img src="https://streak-stats.demolab.com/?user=fahrizalvianaz&theme=dark"/>
+          </td>
+          <td>
+               <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrizalvianaz&layout=compact&theme=vision-friendly-dark"/>
+          </td>
+     </tr>
+</table>
+
 
 
 
