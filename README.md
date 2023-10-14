@@ -1,7 +1,6 @@
-<div align="center">
+<div align="center" style="margin-bottom:20px;">
      ### :man_technologist: About Me :       
 </div>
-
 
 <table style="border:none" align="center">
             <tr><td>- 🔭 I’m currently learning everything</td> <td rowspan="4"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/> </td></tr> 
