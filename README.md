@@ -5,7 +5,7 @@
 
 **Backend Developer | Java & Golang Enthusiast**  
 
-I specialize in building scalable and efficient backend systems using Java (Spring Boot) and Golang. I enjoy working on APIs, microservices, and cloud-based solutions.  
+I specialize in building scalable and efficient backend systems using Java and Golang. I enjoy working on APIs, microservices, and cloud-based solutions.  
 
 ## **What I Do**  
 - **Backend Development:** Java, Golang, JavaScript  
