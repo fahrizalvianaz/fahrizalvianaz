@@ -7,7 +7,7 @@
 - **Backend Development:** Java, Golang, JavaScript  
 - **Databases:** PostgreSQL, MySQL, MongoDB  
 - **Cloud & DevOps:** AWS, Docker, CI/CD  
-- **API & Mobile Integration:** RESTful APIs, Kotlin, Android  
+- **API & Mobile Integration:** Flutter, Kotlin, Java  
 - **Collaboration:** Git, Jira, Agile  
  
 
