@@ -15,6 +15,5 @@
 - Email: **fahrizalshofyanaziz@gmail.com**  
 - LinkedIn: [Fahrizal Aziz](https://www.linkedin.com/in/fahrizal-aziz)  
 
-✨ **"Code is like humor. When you have to explain it, it’s bad." – Cory House** ✨ 
 
 ---
