@@ -4,10 +4,10 @@
 # **Hi, I'm Fahrizal**  
 
 ## **What I Do**  
+- **Frontend Development:** Html, CSS, JavaScript, Flutter, Kotlin Android, Java Android  
 - **Backend Development:** Java, Golang, JavaScript  
 - **Databases:** PostgreSQL, MySQL, MongoDB  
 - **Cloud & DevOps:** AWS, Docker, CI/CD  
-- **API & Mobile Integration:** Flutter, Kotlin, Java  
 - **Collaboration:** Git, Jira, Agile  
  
 
